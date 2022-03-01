@@ -1,0 +1,24 @@
+# https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners
+
+# Groups are listed here order of most permissive to least permissive
+# todo: This could be reimplemented with GitHub Teams, but strings here are more flexible for iteration in the beginning
+
+# Meta
+/static/img/ @wschnei2 @jhancoc4 @pganesa4 @akulka15
+
+# Community Content Owners (Blog and Community Modules)
+/docs/ @wschnei2 @jhancoc4 @pganesa4 @akulka15
+/blog/ @wschnei2 @jhancoc4 @pganesa4 @akulka15
+/docs/modules/community.md @wschnei2 @jhancoc4 @pganesa4 @akulka15
+
+
+# Docs subdirectory owners
+/docs/howto/ @wschnei2 @jhancoc4
+/docs/education/ @wschnei2 @jhancoc4
+
+# Specific page owners
+/docs/solutions/sftp.md @pganesa4
+
+# Global Owners
+
+* @arajen12 @rmanidas @wanderse
